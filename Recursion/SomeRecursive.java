@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.function.Function;
 
 /**
  * Write a recursive function called someRecursive which accepts an array and a callback.
