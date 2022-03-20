@@ -8,7 +8,7 @@ import java.util.Objects;
  * isPalindrone('tacocat') => true
  */
 
-public class IsPalindrone {
+public class IsPalindrome {
   static boolean isPalindrome(String s) {
     int length = s.length();
 
