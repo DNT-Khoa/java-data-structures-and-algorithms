@@ -1,2 +1,2 @@
 # java-datastructures-and-algorithms-masterclass
-This repository contains my solutions to challenges for the course "Java Data Structures And Algorithms Masterclass" by Elshad Karimov, which is an online course in Udemy. 
+This repository contains my implementations for various data structures and algorithms that I collected throughout the Internet (GeeksForGeeks, etc).
