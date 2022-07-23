@@ -1,3 +1,5 @@
+package Implementation;
+
 public class LinkedList {
     Node head;
 
@@ -88,7 +90,7 @@ public class LinkedList {
         ll.printList();
 
         ll.deleteNode(1);
-        System.out.println("LinkedList after deletion of 1: ");
+        System.out.println("Implementation.LinkedList after deletion of 1: ");
         ll.printList();
     }
 }
